@@ -1,0 +1,45 @@
+<IDOCTYPE HTML>
+    <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <title>About me</title>
+            </head>
+            <body>
+                <h1 align ="center">About me </h1>
+                    <main>
+     <u1>
+        <p>
+          
+             <l1>
+            Hi i am naveen i am from dharmapuri 
+             </l1>
+       </p>
+       <p>
+             <l1>
+            i skilled in sql language and other basics language i know
+             </l1>
+          
+        </p>
+        <p>
+             <l1>
+            Brave and lessioning person is my strenght
+             </l1>
+        </p>
+        <p>
+             <l1>
+                i didn't focus too much on the details is my weakness
+             </l1>
+        </p>
+         <p>
+     <l1>  
+         i reaserch a treanding news daily
+             </l1>
+        </p>
+     </u1>
+                    </main>
+            </body>
+    </html> 
+           
+        
+            
+                
